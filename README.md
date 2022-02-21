@@ -1,2 +1,2 @@
-# newcoder-practice
-record newcoder practice
+# nowcoder-practice
+record nowcoder practice
